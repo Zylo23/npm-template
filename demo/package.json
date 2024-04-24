@@ -1,0 +1,7 @@
+{
+    "name": "demo",
+    "main": "index.js",
+    "dependencies": {
+        "npm-template": "file:.yalc/npm-template"
+    }
+}

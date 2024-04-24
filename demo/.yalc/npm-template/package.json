@@ -1,0 +1,35 @@
+{
+    "name": "npm-template",
+    "version": "0.0.1",
+    "description": "A template for npm packages",
+    "license": "MIT",
+    "author": "Zylo23 <pyyupsk@proton.me>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Zylo23/npm-template.git"
+    },
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "scripts": {
+        "build": "tsup",
+        "format:fix": "prettier --write . --list-different",
+        "fotmat": "prettier --check .",
+        "knip": "knip",
+        "knip:fix": "knip --fix",
+        "lint": "eslint . --ext .ts",
+        "publish:local": "yalc publish",
+        "publish:npm": "changeset publish",
+        "prerelease": "pnpm build && pnpm test && changeset add && changeset version",
+        "test": "vitest run",
+        "test:coverage": "vitest run --coverage",
+        "test:ui": "vitest watch --ui",
+        "test:watch": "vitest watch"
+    },
+    "types": "dist/index.d.ts",
+    "keywords": [
+        "npm",
+        "template",
+        "typescript"
+    ],
+    "yalcSig": "b631094de65aa355dc068a2fcc67da1b"
+}
