@@ -1,5 +1,5 @@
 {
-    "name": "npm-template",
+    "name": "@zylo23/npm-template",
     "version": "0.0.1",
     "description": "A template for npm packages",
     "license": "MIT",

@@ -2,15 +2,16 @@
 .github
 .husky
 node_modules
+demo
 src
 tests
 .commitlintrc.json
-.eslintrc.json
 .gitignore
 .lintstagedrc.json
 .npmignore
 .prettierignore
 .prettierrc.json
+eslint.config.mjs
 pnpm-lock.yaml
 knip.json
 tsconfig.json

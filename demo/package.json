@@ -2,6 +2,6 @@
     "name": "demo",
     "main": "index.js",
     "dependencies": {
-        "npm-template": "file:.yalc/npm-template"
+        "@zylo23/npm-template": "file:.yalc/@zylo23/npm-template"
     }
 }

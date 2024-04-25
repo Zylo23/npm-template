@@ -1,5 +1,5 @@
 {
-    "name": "npm-template",
+    "name": "@zylo23/npm-template",
     "version": "0.0.1",
     "description": "A template for npm packages",
     "license": "MIT",
@@ -16,7 +16,7 @@
         "fotmat": "prettier --check .",
         "knip": "knip",
         "knip:fix": "knip --fix",
-        "lint": "eslint . --ext .ts",
+        "lint": "eslint src",
         "publish:local": "yalc publish",
         "publish:npm": "changeset publish",
         "prerelease": "pnpm build && pnpm test && changeset add && changeset version",
@@ -31,5 +31,5 @@
         "template",
         "typescript"
     ],
-    "yalcSig": "b631094de65aa355dc068a2fcc67da1b"
+    "yalcSig": "17be048bc3f5c0e55edcc0c0478168f1"
 }

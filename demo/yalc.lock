@@ -1,8 +1,8 @@
 {
   "version": "v1",
   "packages": {
-    "npm-template": {
-      "signature": "b631094de65aa355dc068a2fcc67da1b",
+    "@zylo23/npm-template": {
+      "signature": "17be048bc3f5c0e55edcc0c0478168f1",
       "file": true
     }
   }
