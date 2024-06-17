@@ -1,7 +1,0 @@
-{
-    "name": "demo",
-    "main": "index.js",
-    "dependencies": {
-        "@zylo23/npm-template": "file:.yalc/@zylo23/npm-template"
-    }
-}

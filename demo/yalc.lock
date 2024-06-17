@@ -1,9 +1,0 @@
-{
-  "version": "v1",
-  "packages": {
-    "@zylo23/npm-template": {
-      "signature": "17be048bc3f5c0e55edcc0c0478168f1",
-      "file": true
-    }
-  }
-}

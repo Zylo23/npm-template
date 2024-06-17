@@ -1,12 +1,12 @@
 {
-    "name": "@zylo23/npm-template",
+    "name": "@pyyupsk/npm-template",
     "version": "0.0.1",
     "description": "A template for npm packages",
     "license": "MIT",
-    "author": "Zylo23 <pyyupsk@proton.me>",
+    "author": "ファース <pyyupsk@proton.me>",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Zylo23/npm-template.git"
+        "url": "git+https://github.com/pyyupsk/npm-template.git"
     },
     "main": "dist/index.js",
     "module": "dist/index.mjs",

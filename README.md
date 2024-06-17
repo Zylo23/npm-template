@@ -4,15 +4,15 @@ This repository serves as a template for creating new npm projects. It provides 
 
 ## Table of Contents
 
--   [npm-template](#npm-template)
-    -   [Table of Contents](#table-of-contents)
-    -   [Features](#features)
-    -   [Getting Started](#getting-started)
-    -   [Installation](#installation)
-    -   [Usage](#usage)
-    -   [Development](#development)
-    -   [Contributing](#contributing)
-    -   [License](#license)
+- [npm-template](#npm-template)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Development](#development)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Features
 
@@ -27,7 +27,7 @@ This repository serves as a template for creating new npm projects. It provides 
 To create a new project from this template, clone the repository and update the project name, description, and other relevant information in the `package.json` file.
 
 ```bash
-git clone https://github.com/Zylo23/npm-template.git
+git clone https://github.com/pyyupsk/npm-template.git
 cd npm-template
 ```
 
